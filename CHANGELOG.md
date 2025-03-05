@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/Bhavishya-jasuja/VersionUpdate/compare/v1.1.3...v1.2.0) (2025-03-05)
+
+
+### Features
+
+* **bug:** added latest minor ([200e8be](https://github.com/Bhavishya-jasuja/VersionUpdate/commit/200e8beb64f189e857afa264fa6218732fb6333b))
+
+
+### Bug Fixes
+
+* **bug:** added minornew ([d8d0421](https://github.com/Bhavishya-jasuja/VersionUpdate/commit/d8d04215b5dbe829feeb226e436ce5a02fbbb645))
+
 ### [1.1.3](https://github.com/Bhavishya-jasuja/VersionUpdate/compare/v1.1.2...v1.1.3) (2025-03-03)
 
 
