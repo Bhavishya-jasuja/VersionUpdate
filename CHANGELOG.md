@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/Bhavishya-jasuja/VersionUpdate/compare/v1.2.1...v2.0.0) (2025-03-05)
+
+
+### ⚠ BREAKING CHANGES
+
+* **user:** The getUser function now requires an ID parameter.
+
+### Features
+
+* **user:** latest test ([e1d6d8f](https://github.com/Bhavishya-jasuja/VersionUpdate/commit/e1d6d8fb3b6f336593f71460f899499d3e47b0b2))
+
 ### [1.2.1](https://github.com/Bhavishya-jasuja/VersionUpdate/compare/v1.2.0...v1.2.1) (2025-03-05)
 
 ## [1.2.0](https://github.com/Bhavishya-jasuja/VersionUpdate/compare/v1.1.3...v1.2.0) (2025-03-05)
