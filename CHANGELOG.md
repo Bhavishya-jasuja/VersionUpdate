@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.0.0](https://github.com/Bhavishya-jasuja/VersionUpdate/compare/v2.0.0...v3.0.0) (2025-03-06)
+
+
+### ⚠ BREAKING CHANGES
+
+* **core:** Old authentication tokens are no longer supported.
+
+* **core:** migrate to new authentication system ([4ffcb6f](https://github.com/Bhavishya-jasuja/VersionUpdate/commit/4ffcb6f2e4398ed33d1716ac1d7ba844fc86533f))
+
 ## [2.0.0](https://github.com/Bhavishya-jasuja/VersionUpdate/compare/v1.2.1...v2.0.0) (2025-03-05)
 
 
