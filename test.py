@@ -1,1 +1,1 @@
-print("major")
+print("majorrrrrrrrrrrrr")
