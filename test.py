@@ -1,6 +1,1 @@
-print("hello user")
-print("nexus")
-print("pach")
-print("minor")
-print("minorlatestfeat")
-print("breaking change hoja abb to")
+print("major")
