@@ -1,1 +1,1 @@
-print("majorrrrrrrrrrrrr")
+print("hello user")
