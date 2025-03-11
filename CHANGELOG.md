@@ -4,6 +4,8 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### [3.0.1](https://github.com/Bhavishya-jasuja/VersionUpdate/compare/v3.0.0...v3.0.1) (2025-03-11)
 
+### [3.0.1](https://github.com/Bhavishya-jasuja/VersionUpdate/compare/v3.0.0...v3.0.1) (2025-03-11)
+
 ## [3.0.0](https://github.com/Bhavishya-jasuja/VersionUpdate/compare/v2.0.0...v3.0.0) (2025-03-06)
 
 
