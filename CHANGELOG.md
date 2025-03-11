@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.1.0](https://github.com/Bhavishya-jasuja/VersionUpdate/compare/v4.0.0...v4.1.0) (2025-03-11)
+
+
+### Features
+
+* **ui:** added dark mode support ([13755e8](https://github.com/Bhavishya-jasuja/VersionUpdate/commit/13755e850d20144b02ec79ccf93cf7b2a6e760e6))
+
+
+### Bug Fixes
+
+* **auth:** resolve authentication bug ([718aae9](https://github.com/Bhavishya-jasuja/VersionUpdate/commit/718aae9c4d83db0f93fea16d4b045c06b48add0a))
+
 ### [3.0.1](https://github.com/Bhavishya-jasuja/VersionUpdate/compare/v3.0.0...v3.0.1) (2025-03-11)
 
 
