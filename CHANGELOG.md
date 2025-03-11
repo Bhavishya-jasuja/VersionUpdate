@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.0.1](https://github.com/Bhavishya-jasuja/VersionUpdate/compare/v3.0.0...v3.0.1) (2025-03-11)
+
+
+### Bug Fixes
+
+* **auth:** added Hello User ([0ba3d4c](https://github.com/Bhavishya-jasuja/VersionUpdate/commit/0ba3d4c1aa1692e2c852df20e608e03c3236095d))
+
 ## [3.0.0](https://github.com/Bhavishya-jasuja/VersionUpdate/compare/v2.0.0...v3.0.0) (2025-03-06)
 
 
