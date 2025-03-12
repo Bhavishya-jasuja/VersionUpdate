@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.0.0](https://github.com/Bhavishya-jasuja/VersionUpdate/compare/v4.1.1...v5.0.0) (2025-03-12)
+
+
+### ⚠ BREAKING CHANGES
+
+* **core:** Old authentication tokens are no longer supported.
+
+### Features
+
+* **core:** migrate authentication system ([f8938f0](https://github.com/Bhavishya-jasuja/VersionUpdate/commit/f8938f0e78d34ff398ff8982e3b245e3a07daa3f))
+
 ## [5.0.0](https://github.com/Bhavishya-jasuja/VersionUpdate/compare/v4.1.1...v5.0.0) (2025-03-11)
 
 
