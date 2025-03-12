@@ -1,1 +1,1 @@
-print("bhavishya")
+print("bhavishya jasuja")
