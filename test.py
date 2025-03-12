@@ -1,5 +1,1 @@
-print("hello user")
-print("abc")
-print("ajaj")
-print("ajajaa")
-print("hello")
+print("bhavishya")
