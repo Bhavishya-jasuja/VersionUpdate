@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.1.0](https://github.com/Bhavishya-jasuja/VersionUpdate/compare/v5.0.1...v5.1.0) (2025-03-25)
+
+
+### Features
+
+* **changelog:** added new change ([ce57af9](https://github.com/Bhavishya-jasuja/VersionUpdate/commit/ce57af9186a585e374e5f19719f84091052a7a14))
+
 ### [5.0.1](https://github.com/Bhavishya-jasuja/VersionUpdate/compare/v5.0.0...v5.0.1) (2025-03-12)
 
 ## [5.0.0](https://github.com/Bhavishya-jasuja/VersionUpdate/compare/v4.1.1...v5.0.0) (2025-03-12)
