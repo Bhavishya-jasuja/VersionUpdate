@@ -1,2 +1,2 @@
 print("bhavishya")
-print("new updated")
+print("new")
