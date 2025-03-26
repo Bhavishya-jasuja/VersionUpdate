@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.4.0](https://github.com/Bhavishya-jasuja/VersionUpdate/compare/v5.3.1...v5.4.0) (2025-03-26)
+
+
+### 🚀 Features
+
+* **auth:** add user registration with OTP verification ([4deea5c](https://github.com/Bhavishya-jasuja/VersionUpdate/commit/4deea5c3564af8c85430ae6ae12a0c7da5e8c6c8))
+
+
+### 🐛 Bug Fixes
+
+* new bug fixed ([e08dd3f](https://github.com/Bhavishya-jasuja/VersionUpdate/commit/e08dd3f7c03da53b3a2986cf166329e8a83d94d2))
+
 ### [5.3.1](https://github.com/Bhavishya-jasuja/VersionUpdate/compare/v5.3.0...v5.3.1) (2025-03-25)
 
 
